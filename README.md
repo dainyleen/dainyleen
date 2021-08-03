@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  Developer Dainy here! 
 
 - 🔭 I’m currently working on Treehouse's Python Development techdegree 
 - 🌱 I’m currently learning Python
