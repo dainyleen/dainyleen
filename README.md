@@ -7,6 +7,6 @@
 - 👩🏽‍🎓 I completed a full-stack web development bootcamp at Enspiral Dev Academy
 - 🔭 I solidify my acquired skill on JavaScript by finishing a Team Treehouse's online course in Full-Stack JavaScript
 - 🌱 I’m currently learning MERN Stack by building a full-stack blog project
-- 🤔 I want to expand my knowledge and skills in UX Design
+- 🤔 I want to expand my knowledge and skills in Design (Graphic and User Experience)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/developerdainy" target="-blank">LinkedIn
 
