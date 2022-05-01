@@ -1,12 +1,10 @@
 ### Hello World 😄 
 
-#### Get to know Developer Dainy
+#### It's Me, Dainyleen!
 
 - 👯 Pronouns: She/Her
-- 🎸 Fun fact: I play lead guitar at my local church
-- 👩🏽‍🎓 I completed a full-stack web development bootcamp at Enspiral Dev Academy
+- 🎸 Fun fact: I play acoustic/electric guitar, drums, bass guitar, keys, ukulele and I can sing too!
+- 👩🏽‍🎓 I completed a full-stack web development bootcamp at Enspiral Dev Academy in Wellington, New Zealand
 - 🔭 I solidify my acquired skill on JavaScript by finishing a Team Treehouse's online course in Full-Stack JavaScript
-- 🌱 I’m currently learning MERN Stack by building a full-stack blog project
-- 🤔 I want to expand my knowledge and skills in UX Design
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/developerdainy" target="-blank">LinkedIn
+
 
