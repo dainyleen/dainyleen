@@ -3,8 +3,8 @@
 #### It's Me, Dainyleen!
 
 - 👯 Pronouns: She/Her
-- 🎸 Fun fact: I play acoustic/electric guitar, drums, bass guitar, keys, ukulele and I can sing too!
-- 👩🏽‍🎓 I completed a full-stack web development bootcamp at Enspiral Dev Academy in Wellington, New Zealand
-- 🔭 I am learning Salesforce Developer at MissionReady HQ
+- 🎸 Fun fact: I am a multi-instrumentalist
+- 👩🏽‍🎓 I completed a full-stack web development bootcamp at Enspiral Dev Academy in Wellington, New Zealand (virtually)
+- 🔭 I am learning to become a Salesforce Developer at MissionReady HQ in Auckland New Zealand (virtually)
 
 
